@@ -1,4 +1,4 @@
-✭ Bimbim PREMIUM
+✭ #Bimbim PREMIUM
 ⇨ Login Methode
 [✯] Login Token
 
@@ -19,7 +19,9 @@
 
 [✯] Crack BerPass Manual
 
+
 ⇨ Install Script Termux
+
 $ pkg update && upgrade
 
 $ pkg install python
@@ -36,10 +38,10 @@ $ pip install futures
 
 $ pkg install git
 
-$ rm -rf BMBF
+$ rm -rf crack
 
-$
-$ cd BMBF
+$ https://github.com/BimBim-XD03/crack
+$ cd crack
 
 $ python prem.py
 
