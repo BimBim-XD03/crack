@@ -45,6 +45,7 @@ $ pkg install git
 $ rm -rf crack
 
 $ https://github.com/BimBim-XD03/crack
+
 $ cd crack
 
 $ python prem.py
