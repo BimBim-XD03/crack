@@ -1,5 +1,8 @@
-✭ #Bimbim PREMIUM
+
+#Bimbim PREMIUM
+
 ⇨ Login Methode
+
 [✯] Login Token
 
 [✯] Login Cookie
@@ -7,6 +10,7 @@
 [✯] Token/Cookie Tahan CheckPoint
 
 ⇨ Crack
+
 [✯] Crack Default/Manual
 
 [✯] Crack From Friend, Public, Followers, Likers
