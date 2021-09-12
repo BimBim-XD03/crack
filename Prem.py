@@ -55,7 +55,7 @@ else:
 ### HEADERS ###
 
 def banner():
-    print("""\033[1;37m
+       print("""\033[1;37m
        ____    __                                                                                                      
       / \033[1;91mo\033[1;37m.) |  \/ / |033[1;91mo\033[1;37m.)   /_ \
      / \033[1;91mo\033[1;37m \  | \  /  | 033[1;91mo\033[1;37m \ _/  \ 033[1;33m•\033[1;91m•\033[1;37m orb\033[1;91mXD\033[1;37m.
@@ -98,7 +98,7 @@ def jalan(z):
 		time.sleep(0.03)
 
 def clear():
-	if " linux" in sys.platform.lower():
+    if " linux" in sys.platform.lower():
 		os.system("clear")
 	elif "win" in sys.platform.lower():
 		os.system("cls")
